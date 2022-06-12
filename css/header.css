@@ -1,0 +1,29 @@
+header {
+    background-color: #383838;
+    position: fixed;
+    top: 0px;
+    padding: 3px 20px;
+    width: 100%;
+    z-index: 1;
+    display: flex;
+    justify-content: space-between;
+  }
+
+header a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+  }
+
+  header h1 {
+    color: white;
+  }
+
+nav ul {
+    margin-top: 2em;
+    margin-bottom: 2em;
+  }
+nav ul li {
+    display: inline-block;
+    font-size: 1em;
+  }
